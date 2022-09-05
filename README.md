@@ -34,5 +34,13 @@ This project uses data gathered from the [U.S. Census Bureau’s Annual Business
 ![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/WorkerType.png)
 
 ## Question 3: What are the patterns of successful businesses and their owners? 
+![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/tarick-1.png)
 
+![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/tarick-2.png)
+
+![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/tarick-3.png)
+
+![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/tarick-4.png)
+
+![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/tarick-5.png)
 
