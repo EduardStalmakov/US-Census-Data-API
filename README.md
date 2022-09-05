@@ -39,10 +39,10 @@ Imports included:
 
 
 # Questions
-1. How does firm payroll differ by educational attainment and race of the business owner? [go to visuals](#q1)
-2. Does educational attainment change the business structure?[go to visuals](#q2)
-3. What are the patterns of successful businesses and their owners?[go to visuals](#q3)
-4. What is the educational background of American business owners, how does it vary between industries, and does this variation correlate with any variation in firm characteristics across industries?[go to visuals](#q4)
+1. How does firm payroll differ by educational attainment and race of the business owner? [go to visuals]  (#q1)
+2. Does educational attainment change the business structure?[go to visuals]  (#q2)
+3. What are the patterns of successful businesses and their owners?[go to visuals]  (#q3)
+4. What is the educational background of American business owners, how does it vary between industries, and does this variation correlate with any variation in firm characteristics across industries?[go to visuals]  (#q4)
 
 # Visuals
 
