@@ -2,7 +2,7 @@
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Questions](#Questions)
-* [Get the Data](#'How to get the data')
+* [Get the Data](#How to get the data)
 * [Visuals](#Visuals)
 
 
