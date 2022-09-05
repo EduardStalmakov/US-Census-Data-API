@@ -2,6 +2,7 @@
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Questions](#Questions)
+* [Get the Data](# How to get the data)
 * [Visuals](#Visuals)
 
 
@@ -13,7 +14,7 @@ This project uses data gathered from the [U.S. Census Bureau’s Annual Business
 
 [View our Project Report](https://docs.google.com/document/d/1ZHFal6RjUJfD8Rb6ciDHICtxff8mbLKkd7xuRR6WHIc/edit?usp=sharing)
 
-## How to get the data
+# How to get the data
 
 API Call to get the Characteristics of Business Owners data:
 
@@ -24,7 +25,7 @@ API Call to get the Characteristics of Businesses data:
 
 "https://api.census.gov/data/2018/abscb?get=NAICS2017,NAICS2017_LABEL,RACE_GROUP,RACE_GROUP_LABEL,SEX,SEX_LABEL,QDESC,QDESC_LABEL,BUSCHAR,BUSCHAR_LABEL,FIRMPDEMP,FIRMPDEMP_PCT,EMP,EMP_PCT,PAYANN,PAYANN_PCT,RCPPDEMP,RCPPDEMP_PCT&for=us:*"
 
-## Software Utilized
+# Software Utilized
 
 Python 3.9.12 was used to analyze the data and create the visualization within a Jupyter Notebook
 
