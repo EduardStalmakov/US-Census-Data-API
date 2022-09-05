@@ -1,6 +1,7 @@
 # Census API Data- Annual Business Survey 2019
 ## Table of Contents
 * [Introduction](#Introduction)
+* [Questions](#Questions)
 * [Visuals](#Visuals)
 
 
@@ -13,8 +14,10 @@ This project uses data gathered from the [U.S. Census Bureau’s Annual Business
 
 
 # Questions
-How does firm payroll differ by educational attainment and race of the business owner?
+1. How does firm payroll differ by educational attainment and race of the business owner?
 
+# Visuals
+##### Question 1
 ![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/Median_Salary_by_all_degrees.png)
 
 ![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/Race_education.png)
