@@ -13,6 +13,8 @@ This project uses data gathered from the [U.S. Census Bureau’s Annual Business
 
 [View our Project Report](https://docs.google.com/document/d/1ZHFal6RjUJfD8Rb6ciDHICtxff8mbLKkd7xuRR6WHIc/edit?usp=sharing)
 
+## How to get the data
+
 API Call to get the Characteristics of Business Owners data:
 
   "https://api.census.gov/data/2018/abscbo?get=NAICS2017,NAICS2017_LABEL,QDESC,QDESC_LABEL,OWNER_RACE,OWNER_RACE_LABEL,OWNER_SEX,OWNER_SEX_LABEL,OWNCHAR,OWNCHAR_LABEL,OWNPDEMP,OWNPDEMP_PCT&for=us:*"
