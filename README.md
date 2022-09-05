@@ -19,3 +19,5 @@ How does firm payroll differ by educational attainment and race of the business 
 
 ![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/Race_education.png)
 
+![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/payroll_education_race.png)
+
