@@ -14,6 +14,9 @@ This project uses data gathered from the [U.S. Census Bureau’s Annual Business
 
 [View our Project Report](https://docs.google.com/document/d/1ZHFal6RjUJfD8Rb6ciDHICtxff8mbLKkd7xuRR6WHIc/edit?usp=sharing)
 
+
+![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/merged_data_pic.png)
+
 <a name='data'></a>
 # How to get the data
 
