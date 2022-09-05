@@ -39,13 +39,14 @@ Imports included:
 
 
 # Questions
-1. How does firm payroll differ by educational attainment and race of the business owner?
-2. Does educational attainment change the business structure?
-3. What are the patterns of successful businesses and their owners? 
-4. What is the educational background of American business owners, how does it vary between industries, and does this variation correlate with any variation in firm characteristics across industries?
+1. How does firm payroll differ by educational attainment and race of the business owner? [visuals](#q1)
+2. Does educational attainment change the business structure? [visuals](#q2)
+3. What are the patterns of successful businesses and their owners? [visuals](#q3)
+4. What is the educational background of American business owners, how does it vary between industries, and does this variation correlate with any variation in firm characteristics across industries? [visuals](#q4)
 
 # Visuals
 
+<a name='q1'></a>
 ## Question 1: How does firm payroll differ by educational attainment and race of the business owner?
 
 ![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/Median_Salary_by_all_degrees.png)
@@ -54,10 +55,12 @@ Imports included:
 
 ![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/payroll_education_race.png)
 
+<a name='q2'></a>
 ## Question 2: Does educational attainment change the business structure?
 
 ![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/WorkerType.png)
 
+<a name='q3'></a>
 ## Question 3: What are the patterns of successful businesses and their owners? 
 
 ![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/tarick-1.png)
@@ -70,6 +73,7 @@ Imports included:
 
 ![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/tarick-5.png)
 
+<a name='q4'></a>
 ## Question 4: What is the educational background of American business owners, how does it vary between industries, and does this variation correlate with any variation in firm characteristics across industries?
 
 ![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/dennis-1.png)
