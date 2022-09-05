@@ -14,7 +14,7 @@ This project uses data gathered from the [U.S. Census Bureau’s Annual Business
 
 
 # Questions
-1. How does firm payroll differ by educational attainment and race of the business owner? [Question1](#Question1)
+1. How does firm payroll differ by educational attainment and race of the business owner? [Introduction](#Introduction)
 2. Does educational attainment change the business structure?
 3. What are the patterns of successful businesses and their owners? 
 4. What is the educational background of American business owners, how does it vary between industries, and does this variation correlate with any variation in firm characteristics across industries?
