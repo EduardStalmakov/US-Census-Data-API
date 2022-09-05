@@ -15,7 +15,7 @@ This project uses data gathered from the [U.S. Census Bureau’s Annual Business
 # Questions
 How does firm payroll differ by educational attainment and race of the business owner?
 
-![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/Doctorate_by_race.png)
+![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/Median_Salary_by_all_degrees.png)
 
 ![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/Race_education.png)
 
