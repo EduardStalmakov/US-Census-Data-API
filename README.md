@@ -32,7 +32,7 @@ API Call to get the Characteristics of Businesses data:
 
 # Software Utilized
 
-Python 3.9.12 was used to analyze the data and create the visualization within a Jupyter Notebook
+Python 3.9.12 was used to analyze the data and create the visualizations within a Jupyter Notebook
 
 Imports included:
 * pandas
