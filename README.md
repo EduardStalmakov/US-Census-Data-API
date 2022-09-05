@@ -3,7 +3,7 @@
 * [Introduction](#Introduction)
 * [Questions](#Questions)
 * [Visuals](#Visuals)
-*   [Q1](#Question_1)
+*   - [Q1](#Question_1)
 
 
 # Introduction
