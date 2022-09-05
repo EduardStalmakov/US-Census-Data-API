@@ -15,11 +15,12 @@ This project uses data gathered from the [U.S. Census Bureau’s Annual Business
 
 API Call to get the Characteristics of Business Owners data:
 
-"https://api.census.gov/data/2018/abscbo?      get=NAICS2017,NAICS2017_LABEL,QDESC,QDESC_LABEL,OWNER_RACE,OWNER_RACE_LABEL,OWNER_SEX,OWNER_SEX_LABEL,OWNCHAR,OWNCHAR_LABEL,OWNPDEMP,OWNPDEMP_PCT&for=us:*"
+  "https://api.census.gov/data/2018/abscbo?get=NAICS2017,NAICS2017_LABEL,QDESC,QDESC_LABEL,OWNER_RACE,OWNER_RACE_LABEL,OWNER_SEX,OWNER_SEX_LABEL,OWNCHAR,OWNCHAR_LABEL,OWNPDEMP,OWNPDEMP_PCT&for=us:*"
+
 
 API Call to get the Characteristics of Businesses data:
 
-"https://api.census.gov/data/2018/abscb?get=NAICS2017,NAICS2017_LABEL,RACE_GROUP,RACE_GROUP_LABEL,SEX,SEX_LABEL,QDESC,QDESC_LABEL,BUSCHAR,BUSCHAR_LABEL,FIRMPDEMP,FIRMPDEMP_PCT,EMP,EMP_PCT,PAYANN,PAYANN_PCT,RCPPDEMP,RCPPDEMP_PCT&for=us:"
+"https://api.census.gov/data/2018/abscb?get=NAICS2017,NAICS2017_LABEL,RACE_GROUP,RACE_GROUP_LABEL,SEX,SEX_LABEL,QDESC,QDESC_LABEL,BUSCHAR,BUSCHAR_LABEL,FIRMPDEMP,FIRMPDEMP_PCT,EMP,EMP_PCT,PAYANN,PAYANN_PCT,RCPPDEMP,RCPPDEMP_PCT&for=us:*"
 
 # Questions
 1. How does firm payroll differ by educational attainment and race of the business owner?
