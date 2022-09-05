@@ -24,6 +24,17 @@ API Call to get the Characteristics of Businesses data:
 
 "https://api.census.gov/data/2018/abscb?get=NAICS2017,NAICS2017_LABEL,RACE_GROUP,RACE_GROUP_LABEL,SEX,SEX_LABEL,QDESC,QDESC_LABEL,BUSCHAR,BUSCHAR_LABEL,FIRMPDEMP,FIRMPDEMP_PCT,EMP,EMP_PCT,PAYANN,PAYANN_PCT,RCPPDEMP,RCPPDEMP_PCT&for=us:*"
 
+## Software Utilized
+
+Python 3.9.12 was used to analyze the data and create the visualization within a Jupyter Notebook
+imports included:
+* pandas
+* requests
+* json
+* matplotlib.plyplot
+* seaborn
+
+
 # Questions
 1. How does firm payroll differ by educational attainment and race of the business owner?
 2. Does educational attainment change the business structure?
