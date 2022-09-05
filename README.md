@@ -40,7 +40,7 @@ This project uses data gathered from the [U.S. Census Bureau’s Annual Business
 
 ![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/tarick-3.png)
 
-![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/tarick-4.png)
+![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/tarick4.png)
 
 ![Owner](https://github.com/EduardStalmakov/US-Census-Data-API/blob/main/tarick-5.png)
 
